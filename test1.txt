@@ -1,0 +1,6 @@
+* Физика
+GRAVITY := -10
+OBJECT := [
+    MASS => 50,
+    ACCEL => #(GRAVITY)
+]

@@ -1,0 +1,6 @@
+* Химия
+BASEVAL := 100
+SAMPLES := <<
+    [ ID => 1, VAL => #(BASEVAL) ],
+    [ ID => 2, VAL => 200 ]
+>>

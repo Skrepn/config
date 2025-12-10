@@ -1,0 +1,7 @@
+* Информатика
+MAINPORT := 8080
+PORTS := << 80, 443, #(MAINPORT) >>
+SERVER := [
+    ID => 1,
+    ACTIVE => 1
+]
